@@ -1,4 +1,4 @@
 # tp-remote-repo
-User story Smail 2 est traitée
+User story Smail 
 Feature traitée
 Smail feature
