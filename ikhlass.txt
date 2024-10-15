@@ -1,5 +1,0 @@
-feature-ikhlass-ff
-feature-ikhlass-ff 2
-master
-feature-ikhlass-no-ff
-feature-ikhlass-no-ff 2
