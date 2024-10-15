@@ -1,5 +1,0 @@
-feature-devin-ff
-feature-devin-ff 2
-master
-feature-devin-nn-ff
-feature-devin-nn-ff 2
